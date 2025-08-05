@@ -36,9 +36,11 @@ A dataset ZIP file is included in the repository. Extract it to access the train
 
 **wandb Link**
 
-Training metrics and validation results can be viewed at: https://wandb.ai/charithareddyadoori-getayna/ayna-ml-assignment/runs/hizq6983
+Training metrics and validation results can be viewed at:
 
-
+**VAL_LOSS CURVE_wandb link**:https://wandb.ai/charithareddyadoori-getayna/ayna-ml-assignment/reports/val_loss-25-08-05-16-01-46---VmlldzoxMzg2ODI1OA?accessToken=3rklok5o3yx2d6t2nbk7d0vmjztw1f2nn7kvamb0ac7b9rj3kie4ttj1i0dfla4q
+**TRAIN_LOSS CURVE_Wandb link**:https://wandb.ai/charithareddyadoori-getayna/ayna-ml-assignment/reports/train_loss-25-08-05-16-11-46---VmlldzoxMzg2ODM2MQ
+**Epoch run**:https://api.wandb.ai/links/charithareddyadoori-getayna/nlon6gp4
 
 **Observations**
 
